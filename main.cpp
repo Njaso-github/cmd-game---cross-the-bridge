@@ -200,6 +200,21 @@ int main()
             cout << "                   __-----^^      ^^-----__                   " << endl << endl;
         }
 
+        per1 = "p1";
+        per2 = "p2";
+        per3 = "p3";
+        per4 = "p4";
+        per5 = "p5";
+
+        per01 = "  ";
+        per02 = "  ";
+        per03 = "  ";
+        per04 = "  ";
+        per05 = "  ";
+
+        fire1 = "(o)";
+        fire01 = "   ";
+
         system("pause");
     }
 }
